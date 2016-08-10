@@ -219,6 +219,8 @@ a:focus {
 }
 .content-section {
   padding-top: 100px;
+  background-color: black;
+  background: url(../img/intro-bg.jpg);
 }
 .download-section {
   width: 100%;
